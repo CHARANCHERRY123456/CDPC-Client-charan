@@ -1,0 +1,72 @@
+[
+    {
+        "id": 1,
+        "name": "Alice Johnson",
+        "graduationYear": 2018,
+        "company": "Google",
+        "position": "Software Engineer"
+    },
+    {
+        "id": 2,
+        "name": "Bob Smith",
+        "graduationYear": 2017,
+        "company": "Microsoft",
+        "position": "Data Scientist"
+    },
+    {
+        "id": 3,
+        "name": "Charlie Brown",
+        "graduationYear": 2019,
+        "company": "Amazon",
+        "position": "Product Manager"
+    },
+    {
+        "id": 4,
+        "name": "Diana Prince",
+        "graduationYear": 2020,
+        "company": "Facebook",
+        "position": "UI/UX Designer"
+    },
+    {
+        "id": 5,
+        "name": "Edward Norton",
+        "graduationYear": 2016,
+        "company": "Netflix",
+        "position": "Frontend Developer"
+    },
+    {
+        "id": 6,
+        "name": "Fiona Gallagher",
+        "graduationYear": 2021,
+        "company": "Apple",
+        "position": "iOS Developer"
+    },
+    {
+        "id": 7,
+        "name": "George Williams",
+        "graduationYear": 2018,
+        "company": "Tesla",
+        "position": "Embedded Systems Engineer"
+    },
+    {
+        "id": 8,
+        "name": "Hannah Davis",
+        "graduationYear": 2019,
+        "company": "Uber",
+        "position": "Full Stack Developer"
+    },
+    {
+        "id": 9,
+        "name": "Ian McGregor",
+        "graduationYear": 2020,
+        "company": "Salesforce",
+        "position": "Cloud Architect"
+    },
+    {
+        "id": 10,
+        "name": "Jessica Lee",
+        "graduationYear": 2017,
+        "company": "Adobe",
+        "position": "Data Analyst"
+    }
+]
